@@ -63,7 +63,9 @@
 		"webpack": "latest",
 		"webpack-cli": "latest",
 		"webpack-dev-server": "latest",
-		"webpack-stream": "latest"
+		"webpack-stream": "latest",
+		"my-module-dark-theme": "^0.0.4",
+		"personal-build-frontender": "^0.0.9"
 	},
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
